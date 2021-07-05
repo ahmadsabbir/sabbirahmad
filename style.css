@@ -1,0 +1,138 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin-top: 5px;
+    
+}
+.top-part{
+    
+    
+    padding-left: 15%;
+    background-image: url(personal-website/header-bg.png);
+    background-position: left;
+}
+.sabbir{
+    width: 46%;
+    float: left;
+}
+#notun{
+    width: 40%;
+}
+#top-chobi{
+    width: 580px;
+}
+.ami{
+    font-size: 40px;
+    font-weight: 500;
+    padding-top: 50px;
+}
+.tumi{
+    font-size: 50px;
+    font-weight: 800;
+    padding-top: 0%;
+    color: rgb(241, 87, 138);
+    line-height: 0%;
+}
+p{
+    color: gray; 
+}
+#abbu{
+    padding-top: 7% ;
+    padding-bottom: 7%;
+    line-height: 1.7;
+}
+.link-button{
+    text-decoration: none;
+    padding: 10px 30px ;
+    background-image: linear-gradient(45deg, rgb(228, 72, 163),#ec3773);
+    border-radius: 5px;
+    font-weight: 500;
+    color: white;
+    
+}
+img{
+    width: 100%;
+   
+}
+
+
+.biography{
+    padding-top: 3%;
+    padding-left: 10%;
+    padding-right: 3%;
+    background-image: url(personal-website/biography-bg.png);
+    background-position:left;
+    
+}
+#ahmad{
+    padding-top: 7%;
+    padding-left: 5%;
+}
+.dur{
+    font-size: 30px;
+    font-weight: 500;
+}
+#ammu{
+    padding-bottom: 5%;
+    line-height: 1.7;
+}
+section{
+    padding-top:; 
+    height: 700px;
+}
+.work{
+    text-align: center;
+    font-size:37px;
+    font-weight:500;
+    
+}
+.chobi{
+    
+    padding-left: 4%; 
+    background-image:url(personal-website/latest-work-bg.png);
+    background-position: right;
+    
+}
+.photo{
+    width: 30%;
+    float: left;
+    padding-right: 3%;
+    padding-top: 4%;
+}
+.lol{
+    padding-top: 2%;
+}
+.haha{
+    padding-top:10px;
+    padding-bottom: 3%;
+}
+#jani{
+    color: black;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+
+.align{
+    text-align: center;
+    margin-bottom: 5px;
+    background-image: url(personal-website/footer-bg.png);
+    background-position: left;
+    
+}
+.gmail{
+    padding: 2% 13%;
+    background-image: linear-gradient(45deg, rgb(228, 72, 163),#ec3773);
+    display: inline-block;
+    border-radius: 10px;
+    color: white;
+}
+.color{
+    color: white;
+}
+footer{
+    padding-top: 10%;
+    font-size: 12px;
+}
+
+
+
